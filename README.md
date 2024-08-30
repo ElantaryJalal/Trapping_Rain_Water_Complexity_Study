@@ -37,8 +37,7 @@ comparison.md: Detailed analysis and comparison of the two approaches, including
 . Readability: Simpler approaches like the Two-Pointer method are not only faster but also easier to understand and maintain.
 
 # How to Use
-      1. Clone the repositiory
-      ```c++
-      git clone https://github.com/yourusername/trapping-rain-water-complexity-study.git
-      ```
+1. Clone the repositiory
+   
+       git clone https://github.com/yourusername/trapping-rain-water-complexity-study.git
         
