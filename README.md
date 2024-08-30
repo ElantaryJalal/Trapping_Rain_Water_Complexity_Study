@@ -37,7 +37,27 @@ comparison.md: Detailed analysis and comparison of the two approaches, including
 . Readability: Simpler approaches like the Two-Pointer method are not only faster but also easier to understand and maintain.
 
 # How to Use
-1. Clone the repositiory
+1. Clone the repository :
    
        git clone https://github.com/yourusername/trapping-rain-water-complexity-study.git
-        
+
+2. Navigate to the repository :
+
+       cd trapping-rain-water-complexity-study
+
+3. cd trapping-rain-water-complexity-study
+
+       g++ trap_two_pointer.cpp -o trap_two_pointer
+       ./trap_two_pointer
+       
+       g++ trap_three_loop.cpp -o trap_three_loop
+       ./trap_three_loop
+
+
+# Conclusion
+This study underscores the importance of choosing the right algorithm for a given problem. While dividing a problem into subproblems can be a powerful strategy, simpler and more direct methods often provide better performance and maintainability.
+
+Feel free to contribute to this repository by providing alternative solutions or optimizations.
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
